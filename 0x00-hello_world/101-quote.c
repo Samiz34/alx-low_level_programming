@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <unistd.h>
 /**
  * main - the main function
  *
@@ -7,6 +8,6 @@
 
 int main(void)
 {
-	fput("and that piece of art is useful" - Dora Korpar, 2015-10-19");
+	fput("and that piece of art is useful\" - Dora Korpar, 2015-10-1\9",stdout);
 	return (1);
 }
