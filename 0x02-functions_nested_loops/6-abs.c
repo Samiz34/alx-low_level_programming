@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_last_digit - function of absolute value
+ * _abs - function of absolute value
  *
  * @a: function parameter
  *
