@@ -2,7 +2,7 @@
 /**
  * main - print alphabet
  *
- * print_alphabet - print alphabet in lower case
+ * print_alphabet - print function
  *
  * Return: always Zero
  */
